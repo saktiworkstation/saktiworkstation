@@ -2,7 +2,7 @@
  
 Perkenalkan nama saya **Sakti Kusuma Aji**.<br>
  
-Saya juga memiliki gelar Google Associate Android Developer sejak 2019.<br>
+Saya sangat suka dengan coding, jadi saya menghabiskan kebanyakan waktu saya dengan coding.<br>
  
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/sakti-kusuma-aji/)ku ya.
  

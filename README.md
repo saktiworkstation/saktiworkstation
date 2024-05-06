@@ -1,10 +1,5 @@
-# Halo semua! 
+# Hi there! I'm Sakti Kusuma Aji. 
  
-
-Sure, let's make it more engaging and friendly:
-
-Hi there! I'm Sakti Kusuma Aji.
-
 I'm deeply passionate about coding, it's where I spend most of my time. Exploring the intricacies of programming languages and crafting innovative solutions truly excites me.
 
 If you're interested in connecting and discussing all things tech and coding, feel free to follow my [LinkedIn](https://www.linkedin.com/in/sakti-kusuma-aji/) account.

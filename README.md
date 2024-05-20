@@ -5,6 +5,11 @@ I'm deeply passionate about coding, it's where I spend most of my time. Explorin
 If you're interested in connecting and discussing all things tech and coding, feel free to follow my [LinkedIn](https://www.linkedin.com/in/sakti-kusuma-aji/) account.
 
 Looking forward to connecting with fellow coding enthusiasts like you! 😊
+<hr>
+<h3> GitHub Trophies :</h3>
+<div>
+  <img src="https://github-profile-trophy.vercel.app/?username=saktiworkstation&theme=dark_dimmed&no-frame=false&no-bg=true&margin-w=4"/>
+</div>
  
 ### Github Statistic
 <p align="left">
@@ -18,8 +23,4 @@ Looking forward to connecting with fellow coding enthusiasts like you! 😊
 </p>
 
 
-<hr>
-<h3> GitHub Trophies :</h3>
-<div>
-  <img src="https://github-profile-trophy.vercel.app/?username=saktiworkstation&theme=dark_dimmed&no-frame=false&no-bg=true&margin-w=4"/>
-</div>
+
